@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jackwwj619, a student in China😊
-- 👀 I’m interested in Deep Learning, Natrual Language processessing
+- 👀 I’m interested in Deep Learning
 - 📫 reach me - jackwwj619@gmail.com
 
 <!---
