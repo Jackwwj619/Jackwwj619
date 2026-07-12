@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jackwwj619, a student😊
+- 👋 Hi, I’m @Jackwwj619, a student at Sichuan University😊
 
 <!---
 Jackwwj619/Jackwwj619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
